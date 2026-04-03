@@ -5,6 +5,9 @@
 **Not screen sharing. Not a second runtime. Not the official architecture. Just enough local lie to make the browser believe OpenClaw was home.**
 
 A practical hack for making a local-first browser talk to a remote OpenClaw brain without moving the real system body.
+![Ghost Gateway visual summary](./assets/ghost-gateway-hero.png)
+
+**Visual summary:** one machine keeps the brain; the other keeps the browser fast.
 
 ## Published by Frank
 
